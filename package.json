@@ -1,0 +1,28 @@
+{
+  "name": "maildir-plus",
+  "version": "0.0.1",
+  "description": "A Maildir++ library for nodejs",
+  "main": "maildir.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xpensia/node-maildir.git"
+  },
+  "keywords": [
+    "maildir",
+    "maildir++",
+    "email",
+    "mail"
+  ],
+  "author": {
+    "name": "Jean-Sébastien Tremblay",
+    "email": "jeansebtr@xpensia.com",
+    "url": "http://blog.jeansebtr.com/"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "d386be2042e3f9a574e6f8b1906a098584c621e8",
+  "dependencies": {
+    "async": "0.2.x",
+    "mkdirp": "0.3.x"
+  }
+}
